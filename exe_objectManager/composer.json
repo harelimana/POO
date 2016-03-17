@@ -1,0 +1,17 @@
+{
+    "name": "root/pdo",
+    "authors": [
+        {
+            "name": "harelimana",
+            "email": "alexandre.harelimana@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Home\\Documents\\PDO\\": "src/" 
+        }
+    },
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
